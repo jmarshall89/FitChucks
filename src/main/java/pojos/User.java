@@ -7,6 +7,7 @@ import java.util.List;
  * Created by jMarshall on 1/21/17.
  */
 public class User {
+    private int id;
     private Credentials credentials;
     private List<Workout> workouts;
 
@@ -30,7 +31,4 @@ public class User {
             this.email = email;
         }
     }
-
-
-
 }

@@ -1,0 +1,8 @@
+{
+	"id": 123456789, //or string random
+	"credentials" : {
+		"email": "email@email.com",
+		"userNmae":"username",
+		"name": "name",	
+	}
+}

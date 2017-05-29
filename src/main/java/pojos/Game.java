@@ -7,6 +7,7 @@ import java.util.List;
  * Created by jMarshall on 1/21/17.
  */
 public class Game {
+    private int id;
     private List<GameTeam> teams;
     private Rule rules;
 

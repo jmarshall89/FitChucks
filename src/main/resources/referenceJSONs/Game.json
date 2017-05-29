@@ -1,0 +1,15 @@
+{
+  "gameName": "name",
+  "gameType": "TYPE",
+  "ruleType":"RULE_TYPE",
+  "teams": [ //need to figure out workflow for creating teams...
+  			 //it could either be part of creating a game, or allowing people to save teams
+  		{
+  			"teamName": "name",
+  			"teamId":123456789,
+  			"participants" : [
+  				//list of user IDS
+  			]
+  		}
+  ]
+}
